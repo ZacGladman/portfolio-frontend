@@ -1,5 +1,3 @@
-export function Homepage (): JSX.Element {
-    return (
-        <h1>Homepage</h1>
-    )
+export function Homepage(): JSX.Element {
+  return <h1>Homepage</h1>;
 }
